@@ -1,7 +1,7 @@
 package com.tnsif.oops.abstraction;
 
 public class AbstractDemo {
-
+// method overriding
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		Square sq=new Square();
